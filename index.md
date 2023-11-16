@@ -7,7 +7,7 @@ header:
     url: "https://store.steampowered.com/app/1699290/Cult_of_Personality/"
 
 title: Cult of Personality
-title_image: /assets/files/CoP_Logo-RGB-Horizontal.svg
+title_image: /assets/files/CoP_Logo-RGB-Horizontal-Transparent-Large.png
 tagline: "Cult of Personality is a social deception game that bends the rules of what players can see, do, and hear... In life, **and DEATH**"
 
 sitemap: false
