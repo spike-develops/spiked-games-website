@@ -1,34 +1,42 @@
 ---
-layout: splash
-sitemap: false
 header:
-    overlay_image: /assets/files/DameWelcome.jpg
-    overlay_filter: linear-gradient(rgba(0, 255, 255, 0.5), rgba(0, 0, 0, .7))
+  overlay_image: /assets/files/Cop_Page-Background.png
+  actions:
+  - label: "Cult of Personality Steam Page"
+    url: "https://store.steampowered.com/app/1699290/Cult_of_Personality/"
 
-tagline: "Engineer with an affinity for atmospheric projects"
-feature_row_COP:
-  - image_path: /assets/files/CultofPersonality_Coverart_Submission_Logo.jpg
-    alt: "Cop library hero"
-    title: "Cult of Personality"
-    excerpt: 'Lead network and gameplay Engineer'
-    url: /cult-of-personality/
-    btn_label: "More Info"
-    btn_class: "btn--primary"
+ # overlay_filter: linear-gradient(rgba(0, 255, 255, 0.5), rgba(0, 0, 0, .7))
+tagline: "This is the tagline for our website. We're in the business of making YOU, the customer, cash"
+title: Spiked Games
+sitemap: false
+layout: splash
+
+feature_row:
+    - image_path: /assets/files/simple_gradient.png
+      url: https://sam-pike.com/
+      alt: Sam Pike
+      title: Sam Pike
+      excerpt: Engineer
+      btn_label: "Sam's website"
+      btn_class: "btn--primary"
+    - image_path: /assets/files/simple_gradient.png
+      url: https://www.meyersillustration.com/
+      alt: Courtney Meyers
+      title: Courtney Meyers
+      excerpt: Capsule and marketing artist
+      btn_label: "Courtney's website"
+      btn_class: "btn--primary"
+    - image_path: /assets/files/simple_gradient.png
+      url: /cult-of-personality/
+      alt: Ethan Dowell
+      title: Ethan Dowell
+      excerpt: Pixel Artist
+      btn_label: "Ethan's ArtStation"
+      btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row_COP" type="left" %}
+This is the spiked games landing page
 
-<div class="feature__wrapper">
-<!-- sort them manually because github is 3.9 and sorting is 4 -->
+The team
 
-{% assign projects = site.categories["projects"] | sort: "order_priority", "last" %}
-<!-- iterate over the first two items-->
-{% for post in projects limit: 2 %}
-    {% include custom_feature_single.html %}
-{% endfor %}
-
-<!-- super hacky and badn -->
-{% assign post = site.pages[5] %}
-{% include custom_feature_single.html %}
-
-</div>
+{% include feature_row %}

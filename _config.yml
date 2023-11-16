@@ -12,15 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Pike"
+title                    : "Spiked Games"
 title_separator          : "-"
-subtitle                 : Network and Gameplay Engineer
-name                     : "Sam Pike"
-description              : "Portfolio Site"
+subtitle                 : spooky people making a spooky game
+description              : "this is our studio landing page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,37 +99,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sam Pike"
+  name             : "Spiked Games"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Engineer at Spiked Games - working on Cult of Personality"
   location         : "Milwaukee, WI"
   email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sam17pike@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sam-pike-990719197/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/@spike_develops"
+#     - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:sam17pike@gmail.com"
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/sam-pike-990719197/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/@spike_develops"
 #    - label: "Mastodon"
 #      icon: "fab fa-fw fa-mastodon"
 #      url: "https://mastodon.gamedev.place/@SpikeDevelops"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/spike-develops"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/spike-develops"
 
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sam-pike-990719197/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/@spike_develops"
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/sam-pike-990719197/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/@spike_develops"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
