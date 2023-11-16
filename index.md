@@ -1,14 +1,14 @@
 ---
 header:
   overlay_image: /assets/files/CoP_Page-Background.png
-  overlay_filter: linear-gradient(rgba(255, 255, 255, 0), rgba(232, 213, 183,1))
+  overlay_filter: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(232, 213, 183,1))
   actions:
   - label: "Cult of Personality Steam Page"
     url: "https://store.steampowered.com/app/1699290/Cult_of_Personality/"
 
 title: Cult of Personality
 title_image: /assets/files/CoP_Logo-RGB-Horizontal.svg
-tagline: "Maybe we just talk about cult of personality here instead? that way its actually about the game and less about the studio"
+tagline: "Cult of Personality is a social deception game that bends the rules of what players can see, do, and hear... In life, **and DEATH**"
 
 sitemap: false
 layout: splash
@@ -37,8 +37,6 @@ feature_row:
       btn_class: "btn--primary"
 ---
 
-This is the spiked games landing page
-
-The team
+Something something here, Blah blah
 
 {% include feature_row %}
