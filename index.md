@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: /assets/files/Cop_Page-Background.png
+  overlay_image: /assets/files/CoP_Page-Background.png
   overlay_filter: linear-gradient(rgba(255, 255, 255, 0), rgba(232, 213, 183,1))
   actions:
   - label: "Cult of Personality Steam Page"
