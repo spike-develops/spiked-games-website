@@ -7,6 +7,7 @@ header:
     url: "https://store.steampowered.com/app/1699290/Cult_of_Personality/"
 
 title: Cult of Personality
+title_image: /assets/files/CoP_Logo-RGB-Horizontal.svg
 tagline: "Maybe we just talk about cult of personality here instead? that way its actually about the game and less about the studio"
 
 sitemap: false
