@@ -13,30 +13,19 @@ tagline: "Cult of Personality is a social deception game that bends the rules of
 sitemap: false
 layout: splash
 
-feature_row:
-    - image_path: /assets/files/simple_gradient.png
-      url: https://sam-pike.com/
-      alt: Sam Pike
-      title: Sam Pike
-      excerpt: Engineer
-      btn_label: "Website"
-      btn_class: "btn--primary"
-    - image_path: /assets/files/simple_gradient.png
-      url: https://www.meyersillustration.com/
-      alt: Courtney Meyers
-      title: Courtney Meyers
-      excerpt: Capsule and marketing artist
-      btn_label: "Website"
-      btn_class: "btn--primary"
-    - image_path: /assets/files/simple_gradient.png
-      url: /cult-of-personality/
-      alt: Ethan Dowell
-      title: Ethan Dowell
-      excerpt: Pixel Artist
-      btn_label: "Birth Certificate"
-      btn_class: "btn--primary"
+mdev_gallery:
+  - image_path: /assets/files/mdev/Sam_Booth_Square.jpg
+    url: /assets/files/mdev/Sam_Booth_Square.jpg
+  - image_path: /assets/files/mdev/Public_Showcase_Square.jpg
+    url: /assets/files/mdev/Public_Showcase_Square.jpg
+  - image_path: /assets/files/mdev/Courtney_Booth_Square.jpg
+    url: /assets/files/mdev/Courtney_Booth_Square.jpg
 ---
+Something Here
 
-Something something here, Blah blah
+## Gallery
+Showing off Cult of Personality's "Hide and Seek" mode at M+Dev 2023
+{% include gallery id="mdev_gallery" %}
 
-{% include feature_row %}
+Gameplay Recording from an October 2023 beta test
+{% include video id="at7E-_t5S2g" provider="youtube" %}

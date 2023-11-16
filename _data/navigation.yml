@@ -1,3 +1,7 @@
 main:
-  - title: "Contact Us"
+  - title: "Cult of Personality"
+    url: 
+  - title: "About Us"
+    url: /about-us/
+  - title: "Contact"
     url: mailto:spikedevelops@gmail.com
