@@ -3,7 +3,7 @@ header:
   overlay_image: /assets/files/CoP_Page-Background.png
   overlay_filter: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(232, 213, 183,1))
   actions:
-  - label: "Cult of Personality Steam Page"
+  - label: "Steam Page"
     url: "https://store.steampowered.com/app/1699290/Cult_of_Personality/"
 
 title: Cult of Personality
@@ -11,7 +11,7 @@ title_image: /assets/files/CoP_Logo-RGB-Horizontal-Transparent-Large.png
 tagline: "Cult of Personality is a social deception game that bends the rules of what players can see, do, and hear... In life, **and DEATH**"
 
 sitemap: false
-layout: splash
+layout: single
 
 intro:
   - title: "Bringing new depth to an underserved genre"
@@ -25,12 +25,13 @@ mdev_gallery:
   - image_path: /assets/files/mdev/Courtney_Booth_Square.jpg
     url: /assets/files/mdev/Courtney_Booth_Square.jpg
 ---
+<center>
+<h2>Bringing new depth to an underserved genre</h2>
+A simple but effective combat system replaces voting, Randomized group “Trials” increase replayability, and an innovative NPC *and player* possession system keeps gameplay after death fun and engaging for all players.
+</center>
+<hr class="rounded">
 
-
-{% include feature_row id="intro" type="center" %}
-
-
-<h3> Gallery</h3>
+<h3>Gallery</h3>
 Showing off Cult of Personality's "Hide and Seek" mode at M+Dev 2023
 {% include gallery id="mdev_gallery" %}
 
