@@ -1,7 +1,7 @@
-
-
+---
+---
+//aparently no whitespace before front matter is quite important. it won't convert properly without it
 @charset "utf-8";
-
 
 //$code-background-color:green;
 //$code-background-color-dark:blue;
@@ -11,5 +11,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-
