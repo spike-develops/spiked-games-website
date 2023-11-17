@@ -8,26 +8,26 @@ permalink: /about-us/
 layout: splash
 
 feature_row:
-    - image_path: /assets/files/simple_gradient.png
+    - image_path: /assets/files/ascii_bat.png
       url: https://sam-pike.com/
       alt: Sam Pike
       title: Sam Pike
       excerpt: Engineer
       btn_label: "Website"
       btn_class: "btn--primary"
-    - image_path: /assets/files/simple_gradient.png
+    - image_path: /assets/files/capsule_bat.png
       url: https://www.meyersillustration.com/
       alt: Courtney Meyers
       title: Courtney Meyers
-      excerpt: Capsule and marketing artist
+      excerpt: Graphic Artist
       btn_label: "Website"
       btn_class: "btn--primary"
-    - image_path: /assets/files/simple_gradient.png
+    - image_path: /assets/files/pixel_bat.png
       url: /cult-of-personality/
       alt: Ethan Dowell
       title: Ethan Dowell
       excerpt: Pixel Artist
-      btn_label: "Birth Certificate"
+      btn_label: "Art Station"
       btn_class: "btn--primary"
 ---
 
