@@ -13,6 +13,10 @@ tagline: "Cult of Personality is a social deception game that bends the rules of
 sitemap: false
 layout: splash
 
+intro:
+  - title: "Bringing new depth to an underserved genre"
+    excerpt: "A simple but effective combat system replaces voting, Randomized group “Trials” increase replayability, and an innovative NPC *and player* possession system keeps gameplay after death fun and engaging for all players."
+
 mdev_gallery:
   - image_path: /assets/files/mdev/Sam_Booth_Square.jpg
     url: /assets/files/mdev/Sam_Booth_Square.jpg
@@ -21,9 +25,12 @@ mdev_gallery:
   - image_path: /assets/files/mdev/Courtney_Booth_Square.jpg
     url: /assets/files/mdev/Courtney_Booth_Square.jpg
 ---
-Something Here
 
-## Gallery
+
+{% include feature_row id="intro" type="center" %}
+
+
+<h3> Gallery</h3>
 Showing off Cult of Personality's "Hide and Seek" mode at M+Dev 2023
 {% include gallery id="mdev_gallery" %}
 

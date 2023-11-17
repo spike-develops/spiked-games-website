@@ -31,7 +31,12 @@ feature_row:
       btn_class: "btn--primary"
 ---
 
+<h1>Our Story</h1>
 
-# The Current Cult
+Spiked Games was a pandemic baby. While separated and cooped up, social deception games like Among Us and Project Winter were the games that we kept coming back to night after night. They let us laugh out loud, lie like politicians, and most importantly reconnect and forget about the world for a bit.
+
+While we played the genre into the ground, we started realizing common pain points across the genre. Some games were accessible but lacked gameplay depth. Others had that depth, but were too complex for a casual game. One thing that was true for every game we tried though, was the lack of fun and interesting gameplay for players that die early in a round. That lead us to prototyping CoP's "Possession" system, and the rest is history!
+
+<h1>The Cult</h1>
 
 {% include feature_row %}
