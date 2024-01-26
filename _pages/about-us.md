@@ -16,7 +16,7 @@ feature_row:
       btn_label: "Website"
       btn_class: "btn--primary"
     - image_path: /assets/files/pixel_bat.png
-      url: https://www.artstation.com/ethandowell
+      url: https://www.artstation.com/ethandowell9
       alt: Ethan Dowell
       title: Ethan Dowell
       excerpt: Pixel Artist
